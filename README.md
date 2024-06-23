@@ -63,13 +63,13 @@ The Library Management System project is designed to manage library operations e
 - Customer Management: Manage customer information, including registration details.
 - Issue and Return Tracking: Track the issuance and return of books by customers.
 ## Insights Gained
-1.Relational Database Design: The project reinforced the importance of designing a well-structured relational database. It showcased how to establish relationships between different entities using foreign keys and how these relationships help maintain data integrity.
+1. Relational Database Design: The project reinforced the importance of designing a well-structured relational database. It showcased how to establish relationships between different entities using foreign keys and how these relationships help maintain data integrity.
 
-2.Data Insertion and Querying: The process of inserting sample data and writing queries provided practical experience in handling real-world scenarios. This included retrieving specific information, performing joins across multiple tables, and using aggregate functions for data analysis.
+2. Data Insertion and Querying: The process of inserting sample data and writing queries provided practical experience in handling real-world scenarios. This included retrieving specific information, performing joins across multiple tables, and using aggregate functions for data analysis.
 
-3.Error Handling and Debugging: Encountering and resolving foreign key constraint errors and other issues during the database setup highlighted the importance of meticulous debugging and understanding the constraints applied to the database schema.
+3. Error Handling and Debugging: Encountering and resolving foreign key constraint errors and other issues during the database setup highlighted the importance of meticulous debugging and understanding the constraints applied to the database schema.
 
-4.Optimization: Learning to write optimized SQL queries to fetch data efficiently without redundant computations or excessive resource usage.
+4. Optimization: Learning to write optimized SQL queries to fetch data efficiently without redundant computations or excessive resource usage.
 
 ## Conclusion
 The Library Management System project successfully demonstrates the fundamental principles of relational database management systems (RDBMS). By creating a comprehensive database schema, inserting sample data, and running various queries, the project highlights the practical applications of SQL in managing and analyzing library operations.
