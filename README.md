@@ -51,10 +51,15 @@ Insert sample data into the Inventory and Orders tables.
 This project provides a comprehensive overview of setting up and managing a relational database for a global store. It demonstrates various SQL operations including table creation, data insertion, and complex queries for data retrieval and analysis. This database can be expanded and modified to suit additional business needs and use cases.
 
 
+
 # Library Management System
 
 ## Overview of the Project
 The Library Management System project is designed to manage library operations efficiently. It involves creating a structured relational database using MySQL to store and manage information about branches, employees, books, customers, book issues, and book returns. The system supports various queries to retrieve and analyze data, aiding in the management and decision-making processes.
+
+click this link to details about the project:
+
+https://drive.google.com/file/d/1kxmZRtySMsxRvHXMpuNkU2XMpPl_sAYm/view?usp=sharing
 
 ## Key Features
 - Branch Management: Maintain information about different library branches, including their managers and contact details.
